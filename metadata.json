@@ -1,0 +1,5 @@
+{
+  "name": "SISMA - Sistema Integrado de Segurança",
+  "description": "An integrated system for safety inspections, audits, and compliance management. Features include a normative assistant (RAG), visual inconsistency detection, checklist processing, and automated report generation.",
+  "requestFramePermissions": []
+}
